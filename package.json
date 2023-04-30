@@ -1,11 +1,12 @@
 {
+	"homepage": "https://estelladentinger7.github.io/FemViz2",
 	"name": "todomvc",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-		"preview": "vite preview",	
+		"preview": "vite preview",
 		"gh-pages": "npm run build && npx gh-pages -d build"
 	},
 	"devDependencies": {
