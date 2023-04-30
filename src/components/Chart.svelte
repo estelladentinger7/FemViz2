@@ -25,19 +25,19 @@
   </div>
 
   <div class="col-md-2" style="display: inline-block; width: 20%;">
-    <img src="./src/components/img/people-512.jpg" alt="hola1" style="width: 30%;"/> 
+    <img src="people-512.jpg" alt="hola1" style="width: 30%;"/> 
     <p>Item 1</p>
     <br>
-    <img src="./src/components/img/people-512.jpg" alt="hola1" style="width: 30%;"/> 
+    <img src="people-512.jpg" alt="hola1" style="width: 30%;"/> 
     <p>Item 2</p>
     <br>
-    <img src="./src/components/img/people-512.jpg" alt="hola1" style="width: 30%;"/> 
+    <img src="people-512.jpg" alt="hola1" style="width: 30%;"/> 
     <p>Item 3</p>
     <br>
-    <img src="./src/components/img/people-512.jpg" alt="hola1" style="width: 30%;"/> 
+    <img src="people-512.jpg" alt="hola1" style="width: 30%;"/> 
     <p>Item 4</p>
     <br>
-    <img src="./src/components/img/people-512.jpg" alt="hola1" style="width: 30%;"/> 
+    <img src="people-512.jpg" alt="hola1" style="width: 30%;"/> 
     <p>Item 5</p>
   </div>
 
@@ -71,7 +71,7 @@
   </div>
 
   <div class="col-md-2" style="display: inline-block; width: 20%;">
-    <img src="./src/components/img/people-512.jpg" alt="hola1" style="width: 30%;"/> 
+    <img src="people-512.jpg" alt="hola1" style="width: 30%;"/> 
     <p>Item 1</p>
   </div>
 
